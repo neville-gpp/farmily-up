@@ -1,0 +1,182 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Conversation bubble with text "Thank you" -->
+  <rect x="1" y="8" width="45" height="18" rx="2" ry="2" fill="#fff" stroke="#0288D1" stroke-width="1"/>
+  <text x="22" y="20" font-family="Arial, sans-serif" font-size="8" fill="#0288D1" text-anchor="middle">Thank you!</text>
+
+  <!-- Tiny petals -->
+  <circle cx="50" cy="30" r="8" fill="#FFEB99" stroke="#FFE066" stroke-width="0.3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="65" cy="38" r="8" fill="#FFEB99" stroke="#FFE066" stroke-width="0.3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="65" cy="62" r="8" fill="#FFEB99" stroke="#FFE066" stroke-width="0.3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="35" cy="62" r="8" fill="#FFEB99" stroke="#FFE066" stroke-width="0.3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="35" cy="38" r="8" fill="#FFEB99" stroke="#FFE066" stroke-width="0.3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Small leaves (stay still) -->
+  <ellipse cx="42" cy="78" rx="6" ry="4" fill="#81C784" transform="rotate(-150 42 78)"/>
+  <ellipse cx="58" cy="78" rx="6" ry="4" fill="#81C784" transform="rotate(150 58 78)"/>
+  
+  <!-- Thin stem (stays still) -->
+  <rect x="47" y="68" width="6" height="25" fill="#66BB6A" rx="3"/>
+  
+  <!-- Bottom petal -->
+  <circle cx="50" cy="70" r="8" fill="#FFEB99" stroke="#FFE066" stroke-width="0.3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Small center face -->
+  <circle cx="50" cy="50" r="13" fill="#FFB366">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <ellipse cx="50" cy="54" rx="9" ry="7" fill="#FF9642" opacity="0.3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- Baby eyes (big and innocent) -->
+  <circle cx="45" cy="46" r="3" fill="#333">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="55" cy="46" r="3" fill="#333">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="46.2" cy="45" r="1.2" fill="#FFF">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="56.2" cy="45" r="1.2" fill="#FFF">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="47" cy="46.5" r="0.4" fill="#FFF">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="57" cy="46.5" r="0.4" fill="#FFF">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Pacifier -->
+  <!-- Pacifier shield (outer ring) -->
+  <!--
+  <ellipse cx="50" cy="56" rx="6" ry="4" fill="#87CEEB" stroke="#5F9EA0" stroke-width="0.8" opacity="0.9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </ellipse>
+  -->
+  <!-- Tiny baby smile -->
+  <path d="M 43 55 Q 50 61 57 55" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>  
+
+  <!-- Small blush (still visible around pacifier) -->
+  <circle cx="39" cy="52" r="2.5" fill="#FFB6C1" opacity="0.6">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="61" cy="52" r="2.5" fill="#FFB6C1" opacity="0.6">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-5 50 50; 3 50 50; -5 50 50"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+</svg>
